@@ -43,4 +43,4 @@ async def calculadora(ctx, operacion="",num1=0,num2=0):
         await("operaciones no reconocidas")
 
 
-bot.run("MTI3MDQ1ODczODU0NDg2OTQyNg.GNU26_.UfcVJYday2EGuVnCNz5cA0AloNSjC7bRh4jciM")
+bot.run("tu token secreto va aqui")
